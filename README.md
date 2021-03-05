@@ -1,6 +1,6 @@
 # aluguelCarroTeste
 
-> App de aluguel de carro desenvolvido em Ionic durante projeto da matéria de Computação para Despositivos móveis,
+> App de aluguel de carro desenvolvido em Ionic durante projeto da matéria de Computação para Dispositivos móveis,
 > no quarto semestre do curso de analise e desenvolvimento de sistemas.
 
 ### Copiar arquivo:
